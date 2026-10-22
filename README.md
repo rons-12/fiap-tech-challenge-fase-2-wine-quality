@@ -12,13 +12,19 @@ Este projeto aplica técnicas de Aprendizado de Máquina (Machine Learning) sobr
 O projeto segue a estrutura recomendada para o Tech Challenge:
 
 wine-quality-classification/
-│
+
 ├── data/                  # Base de dados utilizada 
+
 ├── notebooks/             # Notebook contendo EDA, pré-processamento e modelagem
+
 ├── src/                   # Scripts auxiliares e funções reutilizáveis em Python
+
 ├── results/               # Gráficos de EDA, matrizes de confusão e métricas dos modelos
+
 ├── presentation/          # Apresentação executiva em PDF/PPT
+
 ├── requirements.txt       # Lista de dependências e bibliotecas Python
+
 └── README.md              # Descritivo do projeto
 
 ## Como Executar o Projeto
@@ -48,9 +54,9 @@ wine-quality-classification/
 
 ## Autores
 
-Fernanda Andretto
-Lucas Willemann Siviero
-Rafael Berthault
+Fernanda Andretto \ 
+Lucas Willemann Siviero \ 
+Rafael Berthault \ 
 Rodrigo do Nascimento Silva
 
 * Projeto desenvolvido como parte integrante do Tech Challenge - Fase 2 do curso de Pós-Graduação em Data Analytics da FIAP.
