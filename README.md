@@ -51,6 +51,10 @@ fiap-tech-challenge-fase-2-wine-quality/
 
 [Visualizar a apresentação final em PDF](presentation/apresentacao.pdf)
 
+## Vídeo Executivo
+
+[Assistir à apresentação no YouTube](https://youtu.be/P88tZzkwIPM)
+
 ## Autores
 
 Fernanda Andretto  
