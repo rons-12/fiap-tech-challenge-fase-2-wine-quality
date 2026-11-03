@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 def carregar_e_preparar_dados(caminho_csv):
-    df = pd.read_csv(URL)
+    df = pd.read_csv(caminho_csv)
     # Criando a variavel alvo binaria
     df['target'] = (df['quality'] >= 7).astype(int)
     return df
